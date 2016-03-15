@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="org.poo.invaders.Alien">
+    <Position X="0.5" Y="5.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>org\progii\invaders\Alien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="org.poo.invaders.MOB">
+    <Position X="1" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAADAACIIASFACAAAABAAAQAAACBgAAAAAAg=</HashCode>
+      <FileName>org\progii\invaders\MOB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="org.poo.invaders.Nave">
+    <Position X="5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>org\progii\invaders\Nave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="org.poo.invaders.Proyectil">
+    <Position X="3.25" Y="7.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>org\progii\invaders\Proyectil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="org.poo.invaders.ControladorJuego">
+    <Position X="7.75" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AABQQAAEEBAAAgAAACAACAEQAEAEAIBAAICgoAJkAAg=</HashCode>
+      <FileName>org\progii\invaders\ControladorJuego.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="mobs" />
+      <Field Name="mobsEliminados" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

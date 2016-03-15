@@ -1,0 +1,16 @@
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\bin\Debug\Practica2.exe
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\bin\Debug\Practica2.pdb
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.csprojResolveAssemblyReference.cache
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\org.poo.invaders.PantallaJuego.resources
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.Properties.Resources.resources
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.csproj.GenerateResource.Cache
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.exe
+G:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.pdb
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.exe
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.pdb
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\bin\Debug\Practica2.exe
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\bin\Debug\Practica2.pdb
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.csprojResolveAssemblyReference.cache
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\org.poo.invaders.PantallaJuego.resources
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.Properties.Resources.resources
+F:\SEGUNDO\PROGRAMACION ORIENTADA A OBJETOS\PRACTICA 2\23-spaceAlumnos\23-Practica2Alumno\Practica2\obj\x86\Debug\Practica2.csproj.GenerateResource.Cache
