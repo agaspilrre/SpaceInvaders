@@ -36,7 +36,7 @@ namespace org.poo.invaders
             //BASE HEREDA DE LA CLASE MOB Y LE PASO LOS PARAMETROS AL CONSTRUCTOR
             establecerVelocidadHorizontal(velocidadHorizontal);//INVOCO AL METODO DE MOB Y LE PASO COMO PARAMETRO LA VELOCIDAD HORIZONTAL RECIBIDA
 
-
+		//hola	
 
         }
 
